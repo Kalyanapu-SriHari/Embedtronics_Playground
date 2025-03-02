@@ -1,0 +1,3 @@
+[submodule "stm32"]
+	path = stm32
+	url = https://github.com/Kalyanapu-SriHari/STM32.git
